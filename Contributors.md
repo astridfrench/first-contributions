@@ -5,6 +5,7 @@
 - Javier Borja
 - Jeffrey Cole
 - [Khaled Javdan](https://github.com/kjavedan/)
+- [Astrid French](https://github.com/astridfrench/) 
 - [Vijaya](https://github.com/Vijayaa21)
 - [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
 - [Dhayanithi](https://github.com/Dhayanithi-545)
